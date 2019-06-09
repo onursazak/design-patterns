@@ -1,0 +1,2 @@
+http://www.javaturk.org/tasarim-kaliplari-v-singleton-tek-nesne-ii-ve-double-checked-locking/
+http://www.javaturk.org/tasarim-kaliplari-iv-singleton-tek-nesne-i/
